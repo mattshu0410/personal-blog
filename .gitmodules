@@ -1,0 +1,8 @@
+[submodule "matthewshu/themes/congo"]
+	path = matthewshu/themes/congo
+	url = https://github.com/jpanther/congo.git
+	branch = stable
+[submodule "matthewshu/public"]
+	path = matthewshu/public
+	url = https://github.com/mattshu0410/matthewshu.github.io.git
+	branch = main
